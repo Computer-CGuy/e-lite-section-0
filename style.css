@@ -1,7 +1,12 @@
 body{
+	font-family: 'Roboto',sans-serif;
+	font-weight:400;
 	font-size: 40px;
-	margin-top: calc(25% - 0.5em);
+	margin-top: calc(25% - 1em);
 	text-align: center;
 	color: white;
 	background-color: rgb(10,10,10);
+}
+h1.me{
+	font-weight: 400;
 }
